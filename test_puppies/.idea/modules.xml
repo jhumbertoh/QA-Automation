@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../android_app_calculator/.idea/android_app_calculator.iml" filepath="$PROJECT_DIR$/../android_app_calculator/.idea/android_app_calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../exercises/.idea/exercises.iml" filepath="$PROJECT_DIR$/../exercises/.idea/exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../nemesis-mbrk/.idea/nemesis-mbrk.iml" filepath="$PROJECT_DIR$/../nemesis-mbrk/.idea/nemesis-mbrk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../test_app_menu/.idea/test_app_menu.iml" filepath="$PROJECT_DIR$/../test_app_menu/.idea/test_app_menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../test_calculator/.idea/test_calculator.iml" filepath="$PROJECT_DIR$/../test_calculator/.idea/test_calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/test_puppies.iml" filepath="$PROJECT_DIR$/.idea/test_puppies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../wall-e-qa/.idea/wall-e-qa.iml" filepath="$PROJECT_DIR$/../wall-e-qa/.idea/wall-e-qa.iml" />
+    </modules>
+  </component>
+</project>
