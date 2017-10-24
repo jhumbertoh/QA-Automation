@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="false">
+
+	<parameter name="deviceName" value="emulator-5554" />
+	<parameter name="version" value="4.2.2" />
+	<parameter name="platformName" value="Android" />
+	<parameter name="appPackage" value="com.android.calculator2" />
+	<parameter name="appActivity" value="com.android.calculator2.Calculator" />
+	<parameter name="url" value="http://127.0.0.1:4723/wd/hub" />
+	
+	<test name="Suma">
+		<classes>
+			<class name="com.appium.training.second_sample.tests.FirstTest">
+				<methods>
+					<include name="Suma" />
+				</methods>
+			</class>
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
